@@ -4,5 +4,6 @@ Purple
 Pink
 Orange
 Blue
+Green
 Red 
 These area the colors of the Rainvbow 
